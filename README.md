@@ -7,3 +7,6 @@ clean developer logs from jun 8/26.
 
 ## 9/6/26
 * added a bug fix to mitigate SSRF through validating encoders.
+
+## 10/6/26
+* learnt about the flow of UI state life-cycle in react.js
