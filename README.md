@@ -10,3 +10,8 @@ clean developer logs from jun 8/26.
 
 ## 10/6/26
 * learnt about the flow of UI state life-cycle in react.js
+
+## 11/6/26
+* more understanding of langchain.js guidelines
+* brief overview of building blocks of the repo
+* midway working on issue #9980 - anthropic tool streaming parsing
