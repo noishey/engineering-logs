@@ -15,3 +15,9 @@ clean developer logs from jun 8/26.
 * more understanding of langchain.js guidelines
 * brief overview of building blocks of the repo
 * midway working on issue #9980 - anthropic tool streaming parsing
+
+## 12/6/26
+
+* blogsite cleanup regarding code coloring and major UI elements
+* vibe-coded the solution for issue regarding anthropic stream tools. created .md for the solution for further reference
+* switched to antigravity to focus more on agentic coding.
