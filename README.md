@@ -21,3 +21,8 @@ clean developer logs from jun 8/26.
 * blogsite cleanup regarding code coloring and major UI elements
 * vibe-coded the solution for issue regarding anthropic stream tools. created .md for the solution for further reference
 * switched to antigravity to focus more on agentic coding.
+
+## 13/6/26
+
+* blogsite chore of adding minimal icons for social
+* adding heuristic logic for multi-region endpoints in langchain issue.
