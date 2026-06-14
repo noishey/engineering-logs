@@ -26,3 +26,7 @@ clean developer logs from jun 8/26.
 
 * blogsite chore of adding minimal icons for social
 * adding heuristic logic for multi-region endpoints in langchain issue.
+
+## 14/6/26
+
+* researched about subagents and idea regarding graph based research tool. the conclusion - research about building a skill, tool or problem.
