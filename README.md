@@ -30,3 +30,9 @@ clean developer logs from jun 8/26.
 ## 14/6/26
 
 * researched about subagents and idea regarding graph based research tool. the conclusion - research about building a skill, tool or problem.
+
+## 15/6/26
+
+* Kaggle Intense VibeCoding Day 1 Task - Building and Publishing an App on Google Cloud Platform
+* Started Working on a YT Cleaner Tool to automate deletion and cleaning of YT Music Playlist
+* Switched to AntiGravity CLI, Installed AntiGravity and Added SDK to reading list.
