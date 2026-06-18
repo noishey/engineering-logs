@@ -47,3 +47,8 @@
 * [x] Listened to [https://www.youtube.com/watch?v=uYURYHhpmKc] - Day 3 WhitePaper
 * [x] Succesfully completed Day 2 Assignment
 * [x] Minor UI Changes to BlogSite
+
+## 18/6/26
+
+* [x] Listened to [https://www.youtube.com/watch?v=Ddz1b8CYPvg] - Day 4 WhitePaper
+* [x] Day 3 Assignment completion.
