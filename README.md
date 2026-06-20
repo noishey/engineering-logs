@@ -52,3 +52,8 @@
 
 * [x] Listened to [https://www.youtube.com/watch?v=Ddz1b8CYPvg] - Day 4 WhitePaper
 * [x] Day 3 Assignment completion.
+
+## 20/6/26
+* [x] Listened to [https://www.youtube.com/watch?v=8Wyt9l7ge-g]
+* [x] 7/10 [https://codelabs.developers.google.com/enterprise-cloud-scale-deploying-the-expense-agent-to-agent-runtime-on-google-cloud#0]
+* [x] Written an article "AI is a Buzzword. Why?"
