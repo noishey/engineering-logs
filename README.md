@@ -57,3 +57,9 @@
 * [x] Listened to [https://www.youtube.com/watch?v=8Wyt9l7ge-g]
 * [x] 7/10 [https://codelabs.developers.google.com/enterprise-cloud-scale-deploying-the-expense-agent-to-agent-runtime-on-google-cloud#0]
 * [x] Written an article "AI is a Buzzword. Why?"
+
+## 21/6/26
+
+* [x] Sprinted 10/10 [https://codelabs.developers.google.com/enterprise-cloud-scale-deploying-the-expense-agent-to-agent-runtime-on-google-cloud#0]
+* [x] Decision Made on Capstone Project - AI for Business Domain + ADK + Agent Skills + AntiGravity
+
