@@ -64,6 +64,7 @@
 * [x] Decision Made on Capstone Project - AI for Business Domain + ADK + Agent Skills + AntiGravity
 
 ## 22/6/26
-
+What?
 * [x] Added the AI Buzzword Article on BlogSite.
-
+Why?
+* [x] To write purely on my words and exploring futurism and AI research
