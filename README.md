@@ -67,3 +67,11 @@
 
 * [x] Added the AI Buzzword Article on BlogSite.    
 * **Why:** To write purely on my words and exploring futurism and AI research
+
+## 26/6/26
+
+* [x] 5/15 Module One - Basics of AI Python Coding (DeepLearning.AI)
+* **Why:** To have a solid foundation in the education of deep learning.
+
+* [x] Descriptive & truthy data in the about section of the blog
+* **Why:** To be honest about self-evaulation of skills and publish my authentic self.
