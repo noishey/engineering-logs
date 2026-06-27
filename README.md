@@ -75,3 +75,8 @@
 
 * [x] Descriptive & truthy data in the about section of the blog
 * **Why:** To be honest about self-evaulation of skills and publish my authentic self.
+
+## 27/6/26
+
+* [x] DeepLearning.AI - 8/15
+
