@@ -82,17 +82,17 @@
 
 ## 28/6/26
 
-Output
-* [https://www.kaggle.com/code/n0ishey/getting-started-with-titanic] NoteBook Submission for Titanic Dataset
-* [https://github.com/noishey/capstone-kaggle-google/blob/master/README.md] Ideation and Architecture for Capstone
-* Module 1 - DeepLearning.AI - AI Python for Beginners
+### Output
+* [x] [https://www.kaggle.com/code/n0ishey/getting-started-with-titanic] NoteBook Submission for Titanic Dataset
+* [x] [https://github.com/noishey/capstone-kaggle-google/blob/master/README.md] Ideation and Architecture for Capstone
+* [x] Module 1 - DeepLearning.AI - AI Python for Beginners
 
-Metrics
+### Metrics
 
-* **Deep Work:** `___6_ / 6 hours`
-* **Artifacts Created:** `__2__`
-* **Git Commits:** `__2__`
-* **Applications Sent:** `__0__`
-* **Things Shipped:** `__0__`
+* [x] **Deep Work:** `___6_ / 6 hours`
+* [x] **Artifacts Created:** `__2__`
+* [x] **Git Commits:** `__2__`
+* [x] **Applications Sent:** `__0__`
+* [x] **Things Shipped:** `__0__`
 
 
