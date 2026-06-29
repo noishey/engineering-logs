@@ -95,4 +95,16 @@
 * [x] **Applications Sent:** `__0__`
 * [x] **Things Shipped:** `__0__`
 
+## 29/6/26
 
+### Output
+
+* [x] Module 2 - 3/11 - DeepLearning.AI - AI Python for Beginners
+
+### Metrics
+
+* [x] **Deep Work:** `__1.5__ / 6 hours`
+* [x] **Artifacts Created:** `__0__`
+* [x] **Git Commits:** `__0__`
+* [x] **Applications Sent:** `__0__`
+* [x] **Things Shipped:** `__0__`
