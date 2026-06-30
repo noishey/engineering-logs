@@ -108,3 +108,17 @@
 * [x] **Git Commits:** `__0__`
 * [x] **Applications Sent:** `__0__`
 * [x] **Things Shipped:** `__0__`
+
+## 30/6/26
+
+### Output
+
+* [x] Module 2 - 9/11 Lessons
+
+### Metrics
+
+* [x] **Deep Work:** `__2.5__ / 6 hours`
+* [x] **Artifacts Created:** `__0__`
+* [x] **Git Commits:** `__0__`
+* [x] **Applications Sent:** `__0__`
+* [x] **Things Shipped:** `__0__`
