@@ -122,3 +122,17 @@
 * [x] **Git Commits:** `__0__`
 * [x] **Applications Sent:** `__0__`
 * [x] **Things Shipped:** `__0__`
+
+## 01/6/26
+
+### Output
+
+* [x] Deep Learning (for Audio) with Python: Course Overview - 3/19
+
+### Metrics
+
+* [x] **Deep Work:** `__2__ / 6 hours`
+* [x] **Artifacts Created:** `__0__`
+* [x] **Git Commits:** `__0__`
+* [x] **Applications Sent:** `__0__`
+* [x] **Things Shipped:** `__0__`
