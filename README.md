@@ -123,7 +123,7 @@
 * [x] **Applications Sent:** `__0__`
 * [x] **Things Shipped:** `__0__`
 
-## 01/6/26
+## 01/7/26
 
 ### Output
 
@@ -134,5 +134,19 @@
 * [x] **Deep Work:** `__2__ / 6 hours`
 * [x] **Artifacts Created:** `__0__`
 * [x] **Git Commits:** `__0__`
+* [x] **Applications Sent:** `__0__`
+* [x] **Things Shipped:** `__0__`
+
+## 02/7/26
+
+### Output
+
+* [x] Deep Learning (for Audio) with Python: Course Overview - 6/19 [https://www.noishey.blog/articles/dl-audio-py]
+
+### Metrics
+
+* [x] **Deep Work:** `__5.5__ / 6 hours`
+* [x] **Artifacts Created:** `__1__`
+* [x] **Git Commits:** `__1__`
 * [x] **Applications Sent:** `__0__`
 * [x] **Things Shipped:** `__0__`
