@@ -164,3 +164,17 @@
 * [x] **Git Commits:** `__0__`
 * [x] **Applications Sent:** `__0__`
 * [x] **Things Shipped:** `__0__`
+
+## 04/7/26
+
+### Output
+
+* [x] Deep Learning (for Audio) with Python: Course Overview - 8/19 [https://www.noishey.blog/articles/dl-audio-py]
+
+### Metrics
+
+* [x] **Deep Work:** `__2.5__ / 6 hours`
+* [x] **Artifacts Created:** `__0__`
+* [x] **Git Commits:** `__0__`
+* [x] **Applications Sent:** `__0__`
+* [x] **Things Shipped:** `__0__`
